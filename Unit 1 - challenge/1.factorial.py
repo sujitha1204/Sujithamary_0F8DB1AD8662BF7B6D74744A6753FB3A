@@ -8,3 +8,4 @@ num=int(input("Enter number : "))
 
 result=fact(num)                    
 print("factorial of number {} is {} .".format(num,result))  
+
